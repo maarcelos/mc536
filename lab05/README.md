@@ -7,7 +7,7 @@ Estrutura de pastas:
 ~~~
 
 # Aluno
-* `RA`: `<nome completo>`
+* `240765`: `Marcelo Salles Previti`
 
 ## Tarefa de Cypher sobre Marcadores e Taxonomia
 
